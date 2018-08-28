@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int ingresarOpcion(void);//prototipo de funcion
+
 int main()
 {
    int opcion;
@@ -13,8 +15,7 @@ int main()
     printf("4-dividir\n");
     printf("5-salir\n");
 
-    printf("ingrese una opcion:");
-    scanf(" %d", &opcion);
+
 
     switch(opcion)
     {
@@ -41,8 +42,24 @@ int main()
     system("cls");
    }while(opcion != 5);
 
-
+}
 
 
     return 0;
 }
+//FUNCION
+
+int ingresarOpcion(void)
+{
+
+    int opcion;
+
+    printf("ingrese una opcion:");
+    scanf(" %d", &opcion);
+
+    return opcion
+}
+
+
+
+
