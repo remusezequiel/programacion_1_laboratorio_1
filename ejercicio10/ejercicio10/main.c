@@ -61,7 +61,7 @@ int main()
         else if(numero > 0)//positivos
             {
                 contadorPositivos++;
-                sumaPositivos+=numeroPositivo;
+                sumaPositivos = sumaPositivos + numeroPositivo;
             }
         else if(numero == 0)//ceros
             {
