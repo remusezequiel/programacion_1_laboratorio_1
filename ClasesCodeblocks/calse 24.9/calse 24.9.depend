@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537806729 source:c:\users\alumno\desktop\calse 24.9\programacion_1_laboratorio_1\clasescodeblocks\calse 24.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"biblioClase284.h"
+
+1537806129 c:\users\alumno\desktop\calse 24.9\programacion_1_laboratorio_1\clasescodeblocks\calse 24.9\biblioclase284.h
+
+1537806351 source:c:\users\alumno\desktop\calse 24.9\programacion_1_laboratorio_1\clasescodeblocks\calse 24.9\biblioclase284.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioClase284.h"
+
