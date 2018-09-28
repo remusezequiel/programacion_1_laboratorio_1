@@ -1,0 +1,30 @@
+(*)FORMAS DE AGARRAR UN VECTOR:
+[1]
+    char vector[20];
+    printf(" Ingrese un caracter\n");
+    fflush(stdin);
+    scanf(" %s",vector);
+    printf("\n El nombre es : %s",vector);
+[2]
+   char palabra[20];
+
+   do
+   {
+        scanf("%s",palabra);
+        if(!feof(stdin))
+        {
+            printf("\n %s",palabra);
+        }
+   }while(!feof(stdin));
+   
+[1]   
+    char palabra[10];
+    printf("Digite una palabra: \n");
+    gets(palabra);
+    printf(" palabra: %s",palabra);
+
+	
+	
+	
+(*)Menu de opciones:
+do{swich(opciones){case numero: break;}}while(opcione!=(numero de la salida));

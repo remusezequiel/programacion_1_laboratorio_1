@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1538146690 source:c:\users\ezequ\desktop\parcial programacion\funciones de prueba\funciones de prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fdp.h"
+
+1538143807 c:\users\ezequ\desktop\parcial programacion\funciones de prueba\funciones de prueba\fdp.h
+
+1538147027 source:c:\users\ezequ\desktop\parcial programacion\funciones de prueba\funciones de prueba\fdp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fdp.h"
+
+1538146151 source:c:\users\ezequ\desktop\parcial programacion\calculadora\opmath.c
+	<stdio.h>
+	<stdlib.h>
+	"opMath.h"
+
+1538146165 c:\users\ezequ\desktop\parcial programacion\calculadora\opmath.h
+

@@ -1,0 +1,5 @@
+(1)Necesitamos que el programa ingrese alumnos. 
+	Algoritmo(1)-> pido datos y los guardo 
+[Esto es lo mas basico. Puede hacerse de a uno. Puede solisitar una cantidad de alumnos a agregar.]
+(2)Necesitas inicializar un vector con valores ilogicos
+(3)Necesitas que haya en la estructura una variable estado, la cual te servira para saber si el alumno esta dado de alta o de baja
