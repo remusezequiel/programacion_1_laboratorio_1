@@ -20,3 +20,37 @@
 
 1538146165 c:\users\ezequ\desktop\parcial programacion\calculadora\opmath.h
 
+1538171850 source:c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\calculadora\opmath.c
+	<stdio.h>
+	<stdlib.h>
+	"opMath.h"
+
+1538171850 c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\calculadora\opmath.h
+
+1538177982 source:c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\funciones de prueba\funciones de prueba\fdp.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"fdp.h"
+
+1538177857 c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\funciones de prueba\funciones de prueba\fdp.h
+
+1538177982 source:c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\funciones de prueba\funciones de prueba\garabatos.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"fdp.h"
+	"garabatos.h"
+
+1538177948 source:c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\funciones de prueba\funciones de prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"fdp.h"
+	"garabatos.h"
+
+1538175833 c:\users\ezequiel\desktop\repositorio\programacion_1_laboratorio_1\revisar\funciones de prueba\funciones de prueba\garabatos.h
+
