@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1538246045 source:c:\users\ezequ\desktop\programacion_1_laboratorio_1\apoyo299\apoyo299\garabatos.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"garabatos.h"
+
+1538233033 c:\users\ezequ\desktop\programacion_1_laboratorio_1\apoyo299\apoyo299\garabatos.h
+
+1538251955 source:c:\users\ezequ\desktop\programacion_1_laboratorio_1\apoyo299\apoyo299\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"garabatos.h"
+	"lib.h"
+
+1538251368 c:\users\ezequ\desktop\programacion_1_laboratorio_1\apoyo299\apoyo299\lib.h
+
+1538251143 source:c:\users\ezequ\desktop\programacion_1_laboratorio_1\apoyo299\apoyo299\main.c
+	<stdio.h>
+	<stdlib.h>
+	"garabatos.h"
+	"lib.h"
+

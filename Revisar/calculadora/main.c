@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 #include "opMath.h"
 /******************COMENTARIOS***********************************************************************
  * La calculadora toma valores flotantes y devuelve valores flotantes, exepto cuando se factoriza.
@@ -19,17 +20,23 @@ int main()
     float numeroDos;
     int opcion;
 
-    //SE DAN A CONOCER LAS OPCIONES
-    printf("Ingrese una de las siguientes opciones:\n");
-    printf("1) Suma\n");
-    printf("2) Resta\n");
-    printf("3) Producto\n");
-    printf("4) Divicion\n");
-    printf("5) Factorial\n");
-
     //SENTENCIAS:
     do
     {
+        //SE DAN A CONOCER LAS OPCIONES
+        printf("________________________________________________\n");
+        printf("\t Ingrese una de las siguientes opciones:\n");
+        printf("________________________________________________\n");
+        printf("1) Suma\n");
+        printf("________________________________________________\n");
+        printf("2) Resta\n");
+        printf("________________________________________________\n");
+        printf("3) Producto\n");
+        printf("________________________________________________\n");
+        printf("4) Divicion\n");
+        printf("________________________________________________\n");
+        printf("5) Factorial\n");
+        printf("________________________________________________\n");
         opcion = ingresarOpcion();                //LLAMO A LA FUNCION INGRESAR OPCION
 
         switch(opcion)

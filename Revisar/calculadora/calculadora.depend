@@ -10,3 +10,16 @@
 
 1538146165 c:\users\ezequ\desktop\parcial programacion\calculadora\opmath.h
 
+1538233725 source:c:\users\ezequ\desktop\programacion_1_laboratorio_1\revisar\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"opMath.h"
+
+1538233033 c:\users\ezequ\desktop\programacion_1_laboratorio_1\revisar\calculadora\opmath.h
+
+1538233033 source:c:\users\ezequ\desktop\programacion_1_laboratorio_1\revisar\calculadora\opmath.c
+	<stdio.h>
+	<stdlib.h>
+	"opMath.h"
+

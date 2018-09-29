@@ -1,11 +1,12 @@
 /*MOTIVOS*/
-#define INFATRO 10
-#define ACV 20
-#define GRIPE 30
+#define INFATRO 101
+#define ACV 102
+#define GRIPE 103
 /*ESTADOS*/
-#define PENDIENTE 0
-#define CUMPPLIDO 1
-
+#define PENDIENTE 10
+#define CUMPPLIDO 20
+#define ALTA 1
+#define BAJA 0
 
 /*ESTRUCTURA ASOCIADO*/
 typedef struct
@@ -16,8 +17,6 @@ typedef struct
     char apellido[50];
     int edad;
     int estado;
-    int isActive;
-
 }sAsociado;
 /*ESTRUCTURA LLAMADA*/
 typedef struct
@@ -34,11 +33,17 @@ typedef struct
 /**
 Nota 1: Se deberá desarrollar una biblioteca lib.c y lib.h la cual contendrá las funciones
 (Alta, Baja,Modificar, Nueva llamada, Fin de llamada e Informar).*/
-int initicializar(sAsociado* ,int limite);
+int inicializar(sAsociado* ,int limite);
 int mostrarOpciones(void);
+int ingresarOpcion(void);
+sAsociado cargarUnTipo_sAsociado(int);
+void cargarPorCantidad(int cantidad,sAsociado* array,int size);
 int alta(sAsociado* ,int limite);
 int baja(sAsociado* ,int limite, int id);//falta hacer
+void mostrarListaTipo_sAsociado(sAsociado* array, int size);
+void mostrarUnTipo_sAsociado_SE(sAsociado asociado);
+void mostrarUnTipo_sAsociado_CE(sAsociado asociado);
 int modificar(sAsociado* ,int limite, int id);
 int nuevaLlamada();//falta hacer
 int siguienteId(sAsociado* ,int limite);
-int finLlamada();
+int finLlamada();//falta

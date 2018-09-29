@@ -31,10 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="fdp.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="fdp.h" />
 		<Unit filename="garabatos.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -46,10 +42,6 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="opMath.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="opMath.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
