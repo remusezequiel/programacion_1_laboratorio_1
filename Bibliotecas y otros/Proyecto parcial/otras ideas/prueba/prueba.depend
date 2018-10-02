@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1538159630 source:c:\users\ezequ\desktop\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"opMath.h"
+	"fdp.h"
+	"estilo.h"
+
+1538146165 c:\users\ezequ\desktop\prueba\opmath.h
+
+1538158698 c:\users\ezequ\desktop\prueba\fdp.h
+
+1538146151 source:c:\users\ezequ\desktop\parcial programacion\calculadora\opmath.c
+	<stdio.h>
+	<stdlib.h>
+	"opMath.h"
+
+1538146165 c:\users\ezequ\desktop\parcial programacion\calculadora\opmath.h
+
+1538158582 source:c:\users\ezequ\desktop\prueba\fdp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fdp.h"
+
+1538158110 c:\users\ezequ\desktop\prueba\estilo.h
+
+1538158776 source:c:\users\ezequ\desktop\prueba\estilo.c
+	<stdio.h>
+	<stdlib.h>
+	"opMath.h"
+	"fdp.h"
+	"estilo.h"
+

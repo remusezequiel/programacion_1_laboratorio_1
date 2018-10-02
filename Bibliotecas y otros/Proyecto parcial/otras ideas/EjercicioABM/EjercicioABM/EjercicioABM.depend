@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1538002848 source:c:\users\ezequ\desktop\parcial programacion\ejercicioabm\ejercicioabm\abmalumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"abmAlumno.h"
+
+1537935349 c:\users\ezequ\desktop\parcial programacion\ejercicioabm\ejercicioabm\abmalumno.h
+
+1537975299 source:c:\users\ezequ\desktop\parcial programacion\ejercicioabm\ejercicioabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"abmAlumno.h"
+
